@@ -1,19 +1,19 @@
 
 # Menu
-menu.border.color: #FFFFFF
+menu.border.color: #161925
 menu.border.width: 0
 menu.title.bg: flat solid
-menu.title.bg.color: #1E232F
-menu.title.text.color: #20C5BF
+menu.title.bg.color: #161925
+menu.title.text.color: #dd8b9c
 menu.title.text.justify: center
 
 menu.items.bg: flat solid
-menu.items.bg.color: #FFFFFF
-menu.items.text.color: #6A6B6C
+menu.items.bg.color: #161925
+menu.items.text.color: #dd8b9c
 menu.items.disabled.text.color: #AAAEB2
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #1E232F
-menu.items.active.text.color: #00A8BD
+menu.items.active.bg.color: #625785
+menu.items.active.text.color: #bbbbbb
 
 menu.separator.color: #1E232F
 menu.separator.width: 1
